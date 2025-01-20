@@ -42,21 +42,7 @@ sh
 flutter pub get
 Run the app:
 
-sh
-flutter run
-Directory Structure
-lib/
-├── main.dart
-├── screens/
-│   ├── home_screen.dart
-│   ├── quiz_screen.dart
-│   ├── result_screen.dart
 
-Usage
-Home Page: Select "Start Play" to begin the quiz, "Leaderboards" to view top scores, or "Settings" to adjust preferences.
 
-Quiz Screen: Answer the questions and navigate using "Previous" and "Next" buttons.
-
-Result Screen: Review your performance after completing the quiz.
 
 
